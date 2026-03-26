@@ -21,7 +21,8 @@ healthcare-web/
 ├── styles.css          # CSS styling
 └── README.md           # This file
 ```
-
+...
+....
 ## Installation
 
 1. **Clone the repository:**
